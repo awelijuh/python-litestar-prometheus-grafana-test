@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+litestar
+prometheus-client
+prometheus_fastapi_instrumentator
